@@ -6,7 +6,7 @@
 - [License](#license)
 
 ### v1.0.0
-- Initial Commit (_2209/2020_)
+- Initial Commit (_22/09/2020_)
 
 ### Versioning System
 Lighthaus and all it's projects use [Semantic Versioning](https://semver.org/).  <br/>
